@@ -1,1 +1,10 @@
 H
+new line
+E-
+Commands Learned 05-09-2023
+git clone
+git status
+git pull
+git diff
+git add . or use git add file 1 file 2
+git commit -m "Commit Message"
