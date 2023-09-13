@@ -9,3 +9,4 @@ git diff
 git add . or use git add file 1 file 2
 git commit -m "Commit Message"
 git log`
+git push
